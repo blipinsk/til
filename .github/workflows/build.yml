@@ -18,4 +18,7 @@ jobs:
       with:
         description: |
           A collection of concrete writeups of small things I learn daily while working.
+          Things small enough not to deserve a blog post, but big enough to be worth sharing.
+
+          Btw, be sure to check out my blog for the big things :wink: https://medium.com/@blipinsk
         list_most_recent: 2 # optional, lists most recent TILS below description
