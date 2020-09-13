@@ -2,6 +2,9 @@
 > Today I Learned
 
 A collection of concrete writeups of small things I learn daily while working.
+Things small enough not to deserve a blog post, but big enough to be worth sharing.
+
+Btw, be sure to check out my blog for the big things :wink: https://medium.com/@blipinsk
 
 
 _1 TILs and counting..._
