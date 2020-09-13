@@ -1,4 +1,4 @@
-# Styling TabLayout
+# Styling `TabLayout`
 (_2020/09/13_)
 
 There are two styles that you need to worry about when styling the `com.google.android.material.tabs.TabLayout`:
