@@ -1,0 +1,21 @@
+name: Build README
+on:
+  push:
+    branches:
+    - master
+    paths-ignore:
+    - README.md
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Check out repo
+      uses: actions/checkout@v2
+      with:
+        fetch-depth: 0
+    - name: Autoformat README
+      uses: cflynn07/github-action-til-autoformat-readme@1.1.0
+      with:
+        description: |
+          A collection of concrete writeups of small things I learn daily while working.
+        list_most_recent: 2 # optional, lists most recent TILS below description
