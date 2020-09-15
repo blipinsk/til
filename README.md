@@ -7,19 +7,24 @@ Things small enough not to deserve a blog post, but big enough to be worth shari
 Btw, be sure to check out my blog for the big things :wink: https://medium.com/@blipinsk
 
 
-_1 TILs and counting..._
+_2 TILs and counting..._
 
 ---
 
-### 1 most recent TILs
+### 2 most recent TILs
 
+- [Multiple global git configurations](git/multiple-global-git-configurations.md) - Tue Sep 15 19:21:29 2020 +0200
 - [Styling `TabLayout`](android-ui/styling-tab-layout.md) - Sun Sep 13 16:39:35 2020 +0200
 
 ### Categories
 
 - [android-ui](#android-ui)
+- [git](#git)
 
 ### [android-ui](#android-ui)
 - [Styling `TabLayout`](android-ui/styling-tab-layout.md)
+
+### [git](#git)
+- [Multiple global git configurations](git/multiple-global-git-configurations.md)
 
 
