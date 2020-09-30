@@ -7,14 +7,14 @@ Things small enough not to deserve a blog post, but big enough to be worth shari
 Btw, be sure to check out my blog for the big things :wink: https://medium.com/@blipinsk
 
 
-_2 TILs and counting..._
+_3 TILs and counting..._
 
 ---
 
 ### 2 most recent TILs
 
+- [Gradient drawables with aapt](android-ui/gradient-drawables-with-aapt.md) - Wed Sep 30 23:34:18 2020 +0200
 - [Multiple global git configurations](git/multiple-global-git-configurations.md) - Tue Sep 15 19:21:29 2020 +0200
-- [Styling `TabLayout`](android-ui/styling-tab-layout.md) - Sun Sep 13 16:39:35 2020 +0200
 
 ### Categories
 
@@ -22,6 +22,7 @@ _2 TILs and counting..._
 - [git](#git)
 
 ### [android-ui](#android-ui)
+- [Gradient drawables with aapt](android-ui/gradient-drawables-with-aapt.md)
 - [Styling `TabLayout`](android-ui/styling-tab-layout.md)
 
 ### [git](#git)
