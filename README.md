@@ -7,7 +7,7 @@ Things small enough not to deserve a blog post, but big enough to be worth shari
 Btw, be sure to check out my blog for the big things :wink: https://medium.com/@blipinsk
 
 
-_4 TILs and counting..._
+_5 TILs and counting..._
 
 ---
 
@@ -30,6 +30,7 @@ _4 TILs and counting..._
 - [HSL vs HSB (aka HSV)](design/hsl-vs-hsb.md)
 
 ### [git](#git)
+- [Git aliases](git/git-aliases.md)
 - [Multiple global git configurations](git/multiple-global-git-configurations.md)
 
 
