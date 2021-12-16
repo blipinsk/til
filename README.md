@@ -7,14 +7,14 @@ Things small enough not to deserve a blog post, but big enough to be worth shari
 Btw, be sure to check out my blog for the big things :wink: https://medium.com/@blipinsk
 
 
-_7 TILs and counting..._
+_8 TILs and counting..._
 
 ---
 
 ### 2 most recent TILs
 
+- [Named parameters in function types](kotlin/named_parameters_in_function_types.md) - Fri Dec 10 13:50:04 2021 +0100
 - [Destructuring declarations in lambda expressions](kotlin/destructuring_declarations_in_lambdas.md) - Fri Dec 10 13:07:29 2021 +0100
-- [Bash substring extractions](bash/substring-extractions.md) - Tue Jul 27 16:28:33 2021 +0200
 
 ### Categories
 
@@ -40,5 +40,6 @@ _7 TILs and counting..._
 
 ### [kotlin](#kotlin)
 - [Destructuring declarations in lambda expressions](kotlin/destructuring_declarations_in_lambdas.md)
+- [Named parameters in function types](kotlin/named_parameters_in_function_types.md)
 
 
