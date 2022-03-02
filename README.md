@@ -7,7 +7,7 @@ Things small enough not to deserve a blog post, but big enough to be worth shari
 Btw, be sure to check out my blog for the big things :wink: https://medium.com/@blipinsk
 
 
-_8 TILs and counting..._
+_9 TILs and counting..._
 
 ---
 
@@ -40,6 +40,7 @@ _8 TILs and counting..._
 
 ### [kotlin](#kotlin)
 - [Destructuring declarations in lambda expressions](kotlin/destructuring_declarations_in_lambdas.md)
+- [Invoking contextual extension functions](kotlin/invoking_contextual_extension_functions.md)
 - [Named parameters in function types](kotlin/named_parameters_in_function_types.md)
 
 
